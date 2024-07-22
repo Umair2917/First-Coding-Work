@@ -1,0 +1,91 @@
+*{
+    background-color: black;
+    color: white;
+}
+.a1 img{
+    width: 12%;
+    margin-left: 110px;
+}
+.a1{
+    display: flex;
+    justify-content: space-between;
+}
+.a1>ul{
+    display: flex;
+    list-style-type: none;
+    margin-right: 110px;
+}
+.a1>ul>li{
+    padding: 12px;
+    font-size: 14px;
+}
+.a1>ul>li>a{
+    text-decoration: none;
+    color: white;
+}
+.a1>ul>li>a:hover{
+    color: yellow
+}
+.a2 img{
+    width: 1700px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.ap1toap4{
+    margin-left: 125px;
+}
+h1{
+    font-size: 40px;
+    font-weight: 800;
+}
+p{
+    font-size: 25px;
+}
+.a3{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 10px;
+}
+.a4{
+    display: flex;
+    justify-content: flex-end;
+}
+h2{
+    color: yellow;
+    font-size: 30px;
+}
+.yaya{
+    display: flex;
+    justify-content: flex-end;
+    font-size: 15px;
+}
+
+
+.a9{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
