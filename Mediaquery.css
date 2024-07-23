@@ -1,0 +1,60 @@
+body{
+    background-color: red;
+}
+.a1 h1{
+    font-size: 80px;
+    color: white;
+}
+.a1 h3{
+    font-size: 40px;
+}
+.a1 p{
+    font-size: 20px;
+}
+
+@media only screen and (max-width: 1660px) {
+    body{
+        background-color: cyan
+    }
+
+}
+
+@media (max-width: 1399px) {
+    body{
+        background-color: yellow;
+    }
+}
+
+@media (max-width: 1199px) {
+    body{
+        background-color: blue;
+    }
+}
+
+@media (max-width: 991px) {
+    body{
+        background-color: brown;
+    }
+}
+
+@media (max-width: 767px) {
+    body{
+        background-color: chartreuse;
+    }
+}
+
+@media (max-width: 575px) {
+    body{
+        background-color: deeppink;
+    }
+}
+
+.a2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.a3{
+    display: flex;
+    justify-content: space-around;
+}
